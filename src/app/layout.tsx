@@ -5,7 +5,7 @@ import './globals.css';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-    title: 'HalfSkill | Connect via Probabilistic Matching',
+    title: 'SHARIEE | Connect via Probabilistic Matching',
     description: 'A collaborative social platform for matching half-skills.',
 };
 
